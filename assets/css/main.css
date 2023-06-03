@@ -224,7 +224,7 @@ input, select, textarea {
 /* Container */
 
 	.container {
-		margin-left: 12%;
+		margin-left: 7%;
 		max-width: calc(100% - 50px);
 		width: 1200px;
 	}
@@ -332,7 +332,7 @@ input, select, textarea {
 		}
 
 		.row > .off-1 {
-			margin-left: 60%;
+			margin-left: 8.33333%;
 		}
 
 		.row > .col-2 {
@@ -340,7 +340,7 @@ input, select, textarea {
 		}
 
 		.row > .off-2 {
-			margin-left: 25%;
+			margin-left: 16.66667%;
 		}
 
 		.row > .col-3 {
@@ -2038,7 +2038,7 @@ input, select, textarea {
 	#nav {
 		background-color: #282828;
 		text-align: center;
-		position: fixed;
+		position: static;
 		left: 0;
 		top: 0;
 		width: 100%;
