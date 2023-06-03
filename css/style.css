@@ -5,12 +5,11 @@
   align-items: center;
   justify-content: center;
   position: fixed;
-  bottom: -40px;
+  bottom: -10px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 1; /* Установка z-index, чтобы виртуальные стрелки были выше холста игры */
 }
-
 .arrow-btn {
   width: 65px;
   height: 65px;
