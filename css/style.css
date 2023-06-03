@@ -12,8 +12,8 @@
 }
 
 .arrow-btn {
-  width: 70px;
-  height: 70px;
+  width: 65px;
+  height: 65px;
   font-size: 35px;
   touch-action: manipulation; /* Установка touch-action, чтобы избежать задержки при нажатии на кнопки на iPhone */
 }
